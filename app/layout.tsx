@@ -37,6 +37,11 @@ export const metadata: Metadata = {
     title: "Alistair Vance | Film Director",
     description: "Cinematic portfolio showcasing narrative films, commercials, and music videos.",
   },
+  icons: {
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
+    apple: "/apple-touch-icon.png",
+  },
 };
 
 export default function RootLayout({
