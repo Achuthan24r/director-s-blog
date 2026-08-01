@@ -76,6 +76,14 @@ export function Footer() {
               >
                 IMDb
               </a>
+              <a
+                href="https://linkedin.com"
+                target="_blank"
+                rel="noreferrer"
+                className="text-neutral-500 hover:text-white transition-colors duration-300 font-sans text-xs tracking-wider uppercase font-semibold"
+              >
+                LinkedIn
+              </a>
             </div>
           </div>
 
