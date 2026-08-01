@@ -69,7 +69,7 @@ export function FeaturedSlider({ projects }: FeaturedSliderProps) {
               <img
                 src={project.thumbnail_url}
                 alt={project.title}
-                className="absolute inset-0 w-full h-full object-cover transition-transform duration-1000 ease-out group-hover:scale-105"
+                className="absolute inset-0 w-full h-full object-cover transition-transform duration-1000 ease-out group-hover:scale-108"
               />
 
               {/* Cinematic Shadow Vignette */}
